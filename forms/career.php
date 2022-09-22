@@ -30,7 +30,7 @@ try {
 
     // Setting the email content
     $mail->IsHTML(true);
-    $mail->Subject = $_POST['subject'];
+    $mail->Subject = "Career Enquiry";
     $mail->Body = 'Client Enquiry: <br>' .'Name ' . $_POST['name'] . '<br>Email: ' . $_POST['email'] . '<br>Phone Number: ' . $_POST['phone'] . '<br>Resume Link: ' . $_POST['resume'] . '<br>Refrence: ' . $_POST['ref'];
     // $mail->AltBody = $_POST['name'] . $_POST['email'] . $_POST['message'];
 
