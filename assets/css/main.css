@@ -327,7 +327,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 120px;
+  max-height: 140px;
   margin-right: 8px;
   opacity: 1 !important;
 }
@@ -1254,7 +1254,7 @@ h6 {
 }
 
 .hero p {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(0, 0, 0, 0.8);
   margin-bottom: 30px;
   font-size: 18px;
 }
