@@ -8035,14 +8035,14 @@ h1, h2, h3, h4, h5,
   z-index: 3; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #bc9c4f !important;
+      background: #DABA6D !important;
       position: relative;
       top: 0; } }
   .ftco-navbar-light .navbar-brand {
-    color: #fff; }
+    color: #a42c2c; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-brand {
-        color: #fff; } }
+        color: #a42c2c; } }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
@@ -8110,7 +8110,7 @@ h1, h2, h3, h4, h5,
     border: 1px solid #2c2f3a;
     background: #2c2f3a !important; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #DABA6D; }
+    color: #bc9c4f; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
@@ -8129,7 +8129,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #bc9c4f !important;
+    background: #DABA6D !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     @media (max-width: 991.98px) {
@@ -8140,7 +8140,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-item.active > a {
       color: #DABA6D !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
-      color: #bc9c4f !important;
+      color: #DABA6D !important;
       background: #DABA6D;
       border: none !important;
       padding-top: 0.5rem !important;
@@ -8188,17 +8188,17 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
-      color: #000000; }
+      color: #a42c2c; }
 
 .navbar-brand {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 24px;
   font-family: "Poppins", Arial, sans-serif;
   line-height: 1;
   text-transform: uppercase; }
   .navbar-brand span {
     display: block;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 600;
     text-transform: uppercase; }
 
@@ -8248,7 +8248,7 @@ h1, h2, h3, h4, h5,
     background: #DABA6D;
     text-decoration: blink;
     -webkit-animation-name: blinker;
-    -webkit-animation-duration: 0.6s;
+    -webkit-animation-duration: 0.5s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: ease-in-out;
     -webkit-animation-direction: alternate; }
@@ -8798,7 +8798,7 @@ textarea.form-control {
     font-weight: 800 !important;
     line-height: 1; }
     .ftco-footer .logo a {
-      color: #fff; }
+      color: #a42c2c; }
       .ftco-footer .logo a span {
         color: #DABA6D;
         font-size: 16px !important;

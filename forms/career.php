@@ -24,8 +24,8 @@ try {
 
     // Sender and recipient settings
     $mail->setFrom('legalnotice@sc-legal.in', 'SC Legal');
-    $mail->addCC('savlavinay022@gmail.com', 'Vinay Savla');
-    $mail->AddCC('savlavinay77@gmail.com', 'Vinay Savla');
+    $mail->addCC('parichay@sc-legal.in', 'Parichay Sharma');
+    $mail->AddCC('ankita@sc-legal.in', 'Ankita Chatterjee');
     $mail->addReplyTo('legalnotice@sc-legal.in', 'SC Legal'); // to set the reply to
 
     // Setting the email content
